@@ -53,6 +53,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 We would like to thank the Spring community for creating and maintaining this fantastic framework, as well as the countless developers who have contributed to its development over the years.
 
-If you have any questions or need further assistance, please don't hesitate to reach out to our team at [suvrodeepdebnath.official@example.com](mailto:suvrodeepdebnath.official@example.com).
+If you have any questions or need further assistance, please don't hesitate to reach out to our team at [suvrodeepdebnath.official@gmail.com](mailto:suvrodeepdebnath.official@gmail.com).
 
 Happy coding with Java Spring-Boot!
