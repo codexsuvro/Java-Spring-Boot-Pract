@@ -45,10 +45,6 @@ For more detailed instructions and additional configuration options, please refe
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the [contributing guidelines](CONTRIBUTING.md) when contributing to this project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
-
 ## Acknowledgments
 
 We would like to thank the Spring community for creating and maintaining this fantastic framework, as well as the countless developers who have contributed to its development over the years.
